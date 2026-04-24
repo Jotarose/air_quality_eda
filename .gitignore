@@ -1,0 +1,15 @@
+# venv
+.venv/
+venv/
+env/
+
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Outputs
+outputs/graphs/*
+!outputs/graphs/banner.png
